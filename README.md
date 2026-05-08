@@ -4,7 +4,12 @@ ESPECIFICAMENTE PARA ESO... Lo que tenemos en estos archivos es el northwind.db 
 
 # GUIA DE EJERCICIOS 1:
 
+Para conectar las entidades (como Books y Authors), se implementaron relaciones de Uno a Muchos (1:M).
+
+Llaves Foráneas (FK): Se utilizan para garantizar la integridad referencial; por ejemplo, una fila en la tabla de libros apunta al ID único de un autor.
+
 <img width="393" height="273" alt="Captura de pantalla 2026-04-24 194412" src="https://github.com/user-attachments/assets/43dcbf5a-d7f5-4051-82ad-0243f369f8eb" />
+
 
 <img width="438" height="172" alt="Captura de pantalla 2026-04-24 092210" src="https://github.com/user-attachments/assets/82d16b9d-d05c-40a3-9379-5ca11109cf24" />
 
