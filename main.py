@@ -4,7 +4,7 @@ import sqlite3
 
 # connect() = permite obtener la conexión
 # cursor() = crea un objeto cursor que permite ejecutar 
-# cursor.execute() = ejecuta sentencias sql
+# cursor.execute() = ejecuta sentencias sql 
 # commit() = guarda los cambios realizados en la base 
 # close() = cierra la conexión a la base de datos
 # fetchall() = recupera todas las filas de la ultima consulta SELECT
