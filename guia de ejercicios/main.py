@@ -9,5 +9,5 @@ producto_caro = cursor.fetchone()
 
 print(f"El producto más caro es: {producto_caro[0]} con un precio de ${producto_caro[1]}")
 
-connection.close()
+connection.close() #xd
 
