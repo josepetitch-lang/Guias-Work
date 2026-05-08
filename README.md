@@ -34,7 +34,7 @@ ESPECIFICAMENTE PARA ESO... Lo que tenemos en estos archivos es el northwind.db 
 <img width="711" height="435" alt="Captura de pantalla 2026-05-01 172110" src="https://github.com/user-attachments/assets/fbea4ab7-fdd5-46c2-8449-e11e4f837b64" />
 
 
-
+# COSITAS SENCILLAS 
 <img width="980" height="184" alt="Captura de pantalla 2026-04-25 163712" src="https://github.com/user-attachments/assets/8fb3f73a-2174-4676-805f-2d2a68bbd1c8" />
 
 # SELECT COUNT SENCILLO (2)
@@ -42,4 +42,25 @@ ESPECIFICAMENTE PARA ESO... Lo que tenemos en estos archivos es el northwind.db 
 <img width="921" height="567" alt="Captura de pantalla 2026-05-01 172344" src="https://github.com/user-attachments/assets/7db9e5e7-210e-422c-beab-5b29c7d193a3" />
 
 
+# CARPETA GUIA DE EJERCICIOS:
+
+## Punto 1: Lógica de Programación
+
+Implementación de algoritmos básicos y estructuras de control (bucles, condicionales) para resolver cositas lógicas.
+
+## Punto 2: Conectividad con SQLite
+
+ sqlite3 (de Python y el archivo de base de datos .db), la librería que menos odio lol
+
+## Punto 3: Manejo de Rutas y Archivos
+
+Organización de los scripts (exer.py, practica.py) para que interactúen correctamente con los recursos del proyecto sin errores de ubicación.
+
+## Punto 4: Consultas:
+
+Las querys (SELECT) para el cumplimiento del ejercicio
+
+## Punto 5: Ejecución
+
+Si lo hace xd
 
