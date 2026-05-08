@@ -23,7 +23,6 @@ ESPECIFICAMENTE PARA ESO... Lo que tenemos en estos archivos es el northwind.db 
 # Tomada por accidente lol
 <img width="361" height="59" alt="Captura de pantalla 2026-04-24 101913" src="https://github.com/user-attachments/assets/be12eaee-5ed1-486f-9ea1-4ce4b3e099ea" />
 
-<img width="736" height="469" alt="Captura de pantalla 2026-04-24 092638" src="https://github.com/user-attachments/assets/c6e7d539-1c99-4dc0-8c40-e9931de840ec" />
 
 # GUIA DE EJERCICIOS 2:
 
