@@ -17,8 +17,10 @@ ESPECIFICAMENTE PARA ESO... Lo que tenemos en estos archivos es el northwind.db 
 ## Definición de tipos de datos (INTEGER, TEXT, REAL) para asegurar que la información sea válida.
 <img width="571" height="317" alt="Captura de pantalla 2026-04-24 195010" src="https://github.com/user-attachments/assets/d8557ded-47b8-44f6-b690-5f546ba92344" />
 
+# Consulta rápida
 <img width="736" height="469" alt="Captura de pantalla 2026-04-24 092638" src="https://github.com/user-attachments/assets/c6e7d539-1c99-4dc0-8c40-e9931de840ec" />
 
+# Tomada por accidente lol
 <img width="361" height="59" alt="Captura de pantalla 2026-04-24 101913" src="https://github.com/user-attachments/assets/be12eaee-5ed1-486f-9ea1-4ce4b3e099ea" />
 
 <img width="736" height="469" alt="Captura de pantalla 2026-04-24 092638" src="https://github.com/user-attachments/assets/c6e7d539-1c99-4dc0-8c40-e9931de840ec" />
