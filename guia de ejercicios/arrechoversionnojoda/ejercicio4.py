@@ -4,7 +4,7 @@
 
 import sqlite3
 
-connection = sqlite3.connect("northwind.db")
+connection = sqlite3.connect("northwind.db") 
 cursor = connection.cursor()
 
 cursor.execute("SELECT name FROM sqlite_master WHERE type = 'table'")
