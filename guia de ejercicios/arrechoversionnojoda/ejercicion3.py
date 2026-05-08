@@ -2,7 +2,7 @@
 #Usando Python y SQL, crea un script que encuentre los productos que tienen UnitsInStock igual a 0 pero que NO están descontinuados (Discontinued = 0).
 #Imprime una lista de "Alerta de Reabastecimiento" en la consola.
 
-import sqlite3
+import sqlite3 
 
 connection = sqlite3.connect("northwind.db")
 cursor = connection.cursor()
