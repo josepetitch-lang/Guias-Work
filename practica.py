@@ -1,6 +1,6 @@
 import sqlite3
 
-connection = sqlite3.connect("eusoubrazucaymegustanlasgarotas.db") 
+connection = sqlite3.connect("maomao.db") 
 cursor = connection.cursor()
 
 cursor.execute ("""CREATE TABLE IF NOT EXISTS consolas (
