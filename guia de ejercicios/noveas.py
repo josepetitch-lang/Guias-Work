@@ -2,7 +2,7 @@ import sqlite3
 import time
 
 connection = sqlite3.connect("northwind.db")
-cursor = connection.cursor()
+cursor = connection.cursor() 
 
 query = """
 SELECT ProductName, UnitsInStock 
