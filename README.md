@@ -26,14 +26,15 @@ ESPECIFICAMENTE PARA ESO... Lo que tenemos en estos archivos es el northwind.db 
 
 # GUIA DE EJERCICIOS 2:
 
+## Ejecución de consultas simples (SELECT) para filtrar información específica.
 <img width="1313" height="289" alt="Captura de pantalla 2026-05-01 173556" src="https://github.com/user-attachments/assets/88446492-ab78-4cba-a0f8-e3dc380c0b6b" />
-..
+
 
 
 <img width="711" height="435" alt="Captura de pantalla 2026-05-01 172110" src="https://github.com/user-attachments/assets/fbea4ab7-fdd5-46c2-8449-e11e4f837b64" />
 
 
-..
+
 <img width="980" height="184" alt="Captura de pantalla 2026-04-25 163712" src="https://github.com/user-attachments/assets/8fb3f73a-2174-4676-805f-2d2a68bbd1c8" />
 
 ..
