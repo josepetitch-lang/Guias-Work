@@ -1,1 +1,0 @@
-CREAR DOS TABLAS, que se relacionen entre sí, usando llave foranea y llave primaria (FOREIGN AND PRIMARY KEY)

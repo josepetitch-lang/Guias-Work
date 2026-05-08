@@ -4,7 +4,7 @@
 
 import sqlite3
 
-connection = sqlite3.connect(r"C:\Users\vikto\OneDrive\Documentos\SQLITE\northwind.db")
+connection = sqlite3.connect("northwind.db")
 cursor = connection.cursor()
 
 c_id = input("Necesito el ID de una Categoría:")

@@ -1,7 +1,7 @@
 import sqlite3
 import time
 
-connection = sqlite3.connect(r"C:\Users\vikto\OneDrive\Documentos\SQLITE\northwind.db")
+connection = sqlite3.connect("northwind.db")
 cursor = connection.cursor()
 
 query = """
@@ -16,13 +16,14 @@ cursor.execute(query)
 
 productos = cursor.fetchall()
 
-print("TOP 10 MOMOS QUE A NADIE LE DA RISA")
+print("Stock del Objeto (Objetos)")
 
 for product in productos:
     print(f"Objeto: {product[0]}, Stock: {product[1]}")
-    time.sleep(10)
+    time.sleep(10) # jajajajaja
 
 connection.close()
 
-#Asegúrate de que sqlite3.connect("northwind.db") apunte al archivo real (puede que necesites poner ../northwind.db dependiendo desde dónde ejecutes el script)
+#Asegúrate de que sqlite3.connect("northwind.db") apunte al archivo real PORFAVOR
+#(puede que necesites poner ../northwind.db dependiendo desde dónde ejecutes el script)
 #PD: pongan raw si es necesario xdxdxd
