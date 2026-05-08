@@ -3,7 +3,7 @@
 
 import sqlite3
 
-connection = sqlite3.connect("northwind.db")
+connection = sqlite3.connect("northwind.db") 
 cursor = connection.cursor()
 
 cursor.execute("""SELECT City, COUNT(CustomerID) as ClientesTotal FROM Customers GROUP BY City ORDER BY ClientesTotal DESC LIMIT 3""")
