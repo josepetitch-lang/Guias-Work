@@ -1,0 +1,15 @@
+Retos opcionales: 
+1. Analista de datos con Python: 
+Escribe un script en Python que pida al usuario el ID de una categoría (CategoryID)
+Muestre en la consola el valor total en dinero del inventario de esa categoría (es decir, la suma de UnitPrice * UnitsInStock de todos los productos de esa categoría).
+
+2. Reporte de Ciudades Estrella:
+Escribe una consulta SQL que devuelva las 3 ciudades (City de la tabla Customers) que tienen la mayor cantidad de clientes registrados.
+
+3. Productos en Peligro: 
+Usando Python y SQL, crea un script que encuentre los productos que tienen UnitsInStock igual a 0 pero que NO están descontinuados (Discontinued = 0).
+Imprime una lista de "Alerta de Reabastecimiento" en la consola.
+
+4. Explorador de Tablas (Nivel Hacker)
+Investiga cómo listar todas las tablas disponibles en tu base de datos desde Python usando sqlite3 y muestra sus nombres por consola. 
+(Pista: busca información sobre la tabla interna sqlite_master).:-
