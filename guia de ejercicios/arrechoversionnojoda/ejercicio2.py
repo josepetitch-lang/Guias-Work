@@ -3,10 +3,10 @@
 
 import sqlite3
 
-connection = sqlite3.connect("northwind.db")
+connection = sqlite3.connect(r"C:\Users\vikto\OneDrive\Documentos\SQLITE\northwind.db")
 cursor = connection.cursor()
 
-cursor.execute("""SELECT City, COUNT(CustomerID) as ClientesTotal FROM Customers GROUP BY City ORDER BY TotalClientes DESC LIMIT 3""")
+cursor.execute("""SELECT City, COUNT(CustomerID) as ClientesTotal FROM Customers GROUP BY City ORDER BY ClientesTotal DESC LIMIT 3""")
 ciudades = cursor.fetchall()
 for ciudad in ciudades:
-    print(f"Ciudad: {ciudad[0] ! Clientes : {ciudad[1]}}")
+    print(f"Ciudad: {ciudad[0]} Clientes: {ciudad[1]} participantes")

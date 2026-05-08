@@ -4,10 +4,10 @@
 
 import sqlite3
 
-connection = sqlite3.connect("northwind.db")
+connection = sqlite3.connect(r"C:\Users\vikto\OneDrive\Documentos\SQLITE\northwind.db")
 cursor = connection.cursor()
 
-c_id = input("Necesito el ID de una Categoría")
+c_id = input("Necesito el ID de una Categoría:")
 
 cursor.execute("""SELECT SUM(UnitPrice * UnitsInStock) FROM Products ID WHERE CategoryID = ?""", (c_id))
 total = cursor.fetchone()[0]
