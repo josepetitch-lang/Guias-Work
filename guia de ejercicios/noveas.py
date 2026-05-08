@@ -1,7 +1,7 @@
 import sqlite3
 import time
 
-connection = sqlite3.connect("northwind.db")
+connection = sqlite3.connect(r"C:\Users\vikto\OneDrive\Documentos\SQLITE\northwind.db")
 cursor = connection.cursor()
 
 query = """
