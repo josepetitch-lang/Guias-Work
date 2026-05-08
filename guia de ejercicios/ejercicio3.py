@@ -2,7 +2,7 @@ import sqlite3
 
 pais = input("Ingresa el país a buscar:")
 
-connection = sqlite3.connect("northwind.db")
+connection = sqlite3.connect(r"C:\Users\vikto\OneDrive\Documentos\SQLITE\northwind.db")
 cursor = connection.cursor()
 
 query = """SELECT COUNT(*) FROM Customers WHERE COUNTRY = ?"""
